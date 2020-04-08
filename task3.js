@@ -1,6 +1,8 @@
 
 
-    let bottles_number = prompt("how many bottles u need?");
+    const bottles_number = prompt("how many bottles u need?");
+
+    
     for(let i = bottles_number; i>=0 ; i--)
     {
         if(i ==0 ){
